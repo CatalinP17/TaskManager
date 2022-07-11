@@ -1,0 +1,32 @@
+sequence,task_id,title,completed
+Task{sequence=2, taskId=7, title=Configure mobile IDE port to calculate address, completed=true}
+Task{sequence=1, taskId=11, title=Use mobile IDE port to calculate address, completed=false}
+Task{sequence=1, taskId=7, title=Copy the array into the antenna, completed=true}
+Task{sequence=2, taskId=7, title=Find the EXE transmitter and change its IP number, completed=false}
+Task{sequence=1, taskId=100, title=Drive through the optical SDRAM monitor, completed=false}
+Task{sequence=3, taskId=7, title=Back up redundant ASCII code through UDP port, completed=false}
+Task{sequence=4, taskId=7, title=Attach firewall to back-end SDD system, completed=false}
+Task{sequence=5, taskId=7, title=Generate the online CSV pseudocode, completed=false}
+Task{sequence=2, taskId=100, title=Index the Internet, completed=false}
+Task{sequence=1, taskId=20, title=Transcode the circuit by encoding its HTTPS form factor, completed=true}
+Task{sequence=3, taskId=100, title=Feed usabiltiy stats into the Matrix, completed=false}
+Task{sequence=2, taskId=20, title=Transmit unicorn through SFTP protocol, completed=false}
+Task{sequence=1, taskId=9, title=Block port 25 and install 1080p AI sensor, completed=false}
+Task{sequence=2, taskId=11, title=Get on the haptic bus and navigate it, completed=false}
+Task{sequence=6, taskId=7, title=Reboot the neural DDWAD protocol, completed=false}
+Task{sequence=1, taskId=11, title=Use mobile IDE port to calculate address, completed=false}
+Task{sequence=1, taskId=7, title=Copy the array into the antenna, completed=true}
+Task{sequence=2, taskId=7, title=Find the EXE transmitter and change its IP number, completed=false}
+Task{sequence=1, taskId=100, title=Drive through the optical SDRAM monitor, completed=false}
+Task{sequence=3, taskId=7, title=Back up redundant ASCII code through UDP port, completed=false}
+Task{sequence=4, taskId=7, title=Attach firewall to back-end SDD system, completed=false}
+Task{sequence=5, taskId=7, title=Generate the online CSV pseudocode, completed=false}
+Task{sequence=2, taskId=100, title=Index the Internet, completed=false}
+Task{sequence=1, taskId=20, title=Transcode the circuit by encoding its HTTPS form factor, completed=true}
+Task{sequence=3, taskId=100, title=Feed usabiltiy stats into the Matrix, completed=false}
+Task{sequence=2, taskId=20, title=Transmit unicorn through SFTP protocol, completed=false}
+Task{sequence=1, taskId=9, title=Block port 25 and install 1080p AI sensor, completed=false}
+Task{sequence=2, taskId=11, title=Get on the haptic bus and navigate it, completed=false}
+Task{sequence=6, taskId=7, title=Reboot the neural DDWAD protocol, completed=false}
+Task{sequence=1, taskId=11, title=Use mobile IDE port to calculate address, completed=false}
+Task{sequence=1, taskId=7, title=Copy the array into the antenna, completed=true}

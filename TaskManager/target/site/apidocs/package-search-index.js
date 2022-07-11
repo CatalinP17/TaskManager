@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ku.pii2020.taskmanager.model"},{"l":"ku.pii2020.taskmanager.view"}]
